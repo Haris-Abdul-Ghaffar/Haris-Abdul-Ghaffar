@@ -29,6 +29,11 @@ My unique advantage is leveraging deep architectural knowledge of defensive syst
 - 📝 My [Resume](https://github.com/Muhammad-Haris-Arain/Muhammad-Haris-Arain/blob/main/Haris%20Abdul%20Ghaffar%20Pentesting%20Resume.pdf)
 
 
+## My Certifications
+
+<img  src="https://drive.google.com/file/d/1JOrjFXlT2VuHxmc8SXOt3m1MY8_H86tc/view?usp=drive_link" alt="Alt text" style="width:100px;">
+
+
 
 **Languages and Tools:** 
 
