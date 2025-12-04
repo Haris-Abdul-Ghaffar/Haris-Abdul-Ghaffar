@@ -4,19 +4,35 @@
 
 
 
-## Hi there 👋
+
 
 <!--
 **Muhammad-Haris-Arain/Muhammad-Haris-Arain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+##Cyber Security Engineer | Penetration Tester 🛡️
+
+Dedicated to hardening digital defenses and breaking code the right way. Passionate Bug Bounty Hunter focused on discovering and remediating high-impact vulnerabilities. Exploring the intersection of offensive security and secure development practices.
+
+- 🔭 I’m currently working on robust Cybersecurity Solutions, working on Penetration Testing projects and Bug Bounty programs.
+- 🌱 I’m currently learning advanced techniques and new methodologies for Bug Bounty Hunting, focusing on novel attack vectors.
+- 👯 I’m looking to collaborate on Open-source penetration testing scripts, developing defensive security training modules, or contributing to community-driven bug bounty methodology guides.
+- 🤔 I’m looking for help with Optimizing established bug bounty methodologies and exploring ethical applications of Large Language Models (LLMs) to enhance vulnerability analysis and performance.
+- 💬 Ask me about Anything related to offensive security, responsible disclosure timelines, effective reporting of high-severity bugs, or automating your vulnerability discovery workflow.
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/haris-abdul-ghaffar) at or send an email to hackverge@gmail.com
+- ⚡ Fun fact: The highest-impact bug I ever found was a critical logic flaw in an authentication system that took me exactly 48 hours straight of pure caffeine and zero sleep.
+- 📝 My [Resume](https://github.com/Muhammad-Haris-Arain/Muhammad-Haris-Arain/blob/main/Haris%20Abdul%20Ghaffar%20Pentesting%20Resume.pdf)
+
+
+
+**Languages and Tools:** 
+
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
