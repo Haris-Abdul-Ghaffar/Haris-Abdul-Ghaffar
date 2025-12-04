@@ -34,7 +34,7 @@ My unique advantage is leveraging deep architectural knowledge of defensive syst
 
 <img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/NCTP%20Pentesting.jpg" alt="NCTP Pentest" style="width:200px;"><img src=https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/CrowdStrike%20Falcon.jpg alt="CrowdStrike XDR" style="width:100px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/DLP%20Forcepoint.jpg" alt="Forcepoint DLP" style="width:200px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Delinea%20PAM.jpg" alt="Delenia PAM" style="width:200px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Sophos%20Endpoint%20.jpg" alt="Sophos XDR" style="width:100px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Sophos%20Firewall.jpg" alt="Sophos Firewall" style="width:100px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Trend%20Vision%20One.jpg" alt="Trend Vision One XDR" style="width:200px;">
 
-**Languages and Tools:** 
+## Languages and Tools: 
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
